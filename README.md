@@ -1,1 +1,2 @@
 # kedai_kopi
+Dalam kodingan di atas, kelas AnandaCoffee digunakan untuk menghitung total harga pesanan dan mencetak detail pesanan. Objek __menu dideklarasikan sebagai atribut privat menggunakan dua garis bawah sebelum namanya, sehingga tidak dapat diakses secara langsung dari luar kelas. Program utama menggunakan loop while untuk memungkinkan pengguna memesan kembali dan akan berakhir ketika pengguna memilih untuk tidak memesan kembali.
